@@ -1,0 +1,98 @@
+-------------------------------------------------------
+-------------------------------------------------------
+Data log format: Descent DB log
+  
+
+  Intake Params check: INTAKE PARAMS DIFFER FROM THEIR DEFAULTS!!!
+  Power cycle emulation: disabled
+
+  Build Mode:   HB_ITS_ONLY
+-------------------------------------------------------
+
+
+
+--- Non-deleted saved meals -----------------------
+     there's no per-meal data
+-----------------------------------------------------
+
+--- All saved meals -------------------------------
+     there's no per-meal data
+-----------------------------------------------------
+
+--- Total per-file (0: by summaries, 1: by meals) -
+Tracking Start;      Last saved;             Idx.; Rec. ID;     Tstamp;     E-IN;  CBH_in;  FAT_in;  PRO_in;    E-OUT; CBH_out; FAT_out;   Steps; Distance; E-LOSS for phy
+14.09.2019 00:00:39; 14.09.2019 00:00:39;       0;       0; 1568419239;     0.00;    0.00;    0.00;    0.00;     0.00;    0.00;    0.00;       0;        0;           0.00
+01.01.1970 00:00:00; 01.01.1970 00:00:00;       1;       0;          0;     0.00;    0.00;    0.00;    0.00;     0.00;    0.00;    0.00;       0;        0;           0.00
+-----------------------------------------------------
+
+--- Summary change history --------------------------
+Tracking Start;      Last saved;             Idx.; Rec. ID;     Tstamp;     E-IN;  CBH_in;  FAT_in;  PRO_in;    E-OUT; CBH_out; FAT_out;   Steps; Distance; E-LOSS for phy
+14.09.2019 00:00:39; 14.09.2019 00:00:39;       0;       0; 1568419239;     0.00;    0.00;    0.00;    0.00;     0.00;    0.00;    0.00;       0;        0;           0.00
+-----------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+Data log format: Descent DB log
+
+   
+  Intake Params check: INTAKE PARAMS DIFFER FROM THEIR DEFAULTS!!!
+  Power cycle emulation: disabled
+
+  Build Mode:   HB_ITS_ONLY
+-------------------------------------------------------
+
+
+
+--- Non-deleted saved meals -----------------------
+     there's no per-meal data
+-----------------------------------------------------
+
+--- All saved meals -------------------------------
+     there's no per-meal data
+-----------------------------------------------------
+
+--- Total per-file (0: by summaries, 1: by meals) -
+Tracking Start;      Last saved;             Idx.; Rec. ID;     Tstamp;     E-IN;  CBH_in;  FAT_in;  PRO_in;    E-OUT; CBH_out; FAT_out;   Steps; Distance; E-LOSS for phy
+15.09.2019 00:00:57; 15.09.2019 00:00:57;       0;       0; 1568505657;     0.00;    0.00;    0.00;    0.00;     0.00;    0.00;    0.00;       0;        0;           0.00
+01.01.1970 00:00:00; 01.01.1970 00:00:00;       1;       0;          0;     0.00;    0.00;    0.00;    0.00;     0.00;    0.00;    0.00;       0;        0;           0.00
+-----------------------------------------------------
+
+--- Summary change history --------------------------
+Tracking Start;      Last saved;             Idx.; Rec. ID;     Tstamp;     E-IN;  CBH_in;  FAT_in;  PRO_in;    E-OUT; CBH_out; FAT_out;   Steps; Distance; E-LOSS for phy
+15.09.2019 00:00:57; 15.09.2019 00:00:57;       0;       0; 1568505657;     0.00;    0.00;    0.00;    0.00;     0.00;    0.00;    0.00;       0;        0;           0.00
+-----------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+Data log format: Descent DB log
+
+    
+  Intake Params check: INTAKE PARAMS DIFFER FROM THEIR DEFAULTS!!!
+  Power cycle emulation: disabled
+
+  Build Mode:   HB_ITS_ONLY
+-------------------------------------------------------
+
+
+
+--- Non-deleted saved meals -----------------------
+ Meal#;        Date; Start;   End; Flags;    E-IN;    Cbh;    Fat;    Pro;  S. tstamp; End tstamp; Minutes;  Recs; First;  Last;    Type; Frags;
+     0;  16.09.2019; 11:30; 13:48;  0x84;  333.57;  24.92;  18.47;  16.93; 1568622601; 1568630937;     139;   147;  3502;  3648; F3-Meal;
+     1;  16.09.2019; 17:34; 19:48;  0x84;  399.26;  29.36;  22.25;  20.39; 1568644447; 1568652539;     135;   134;  3879;  4012; F3-Meal;
+     2;  16.09.2019; 20:16; 21:42;  0x84;  223.44;  18.47;  11.81;  10.82; 1568654183; 1568659354;      87;    86;  4039;  4124; F3-Meal;
+     3;  16.09.2019; 22:07; 23:25;  0x84;  156.73;  14.32;   7.85;   7.20; 1568660876; 1568665500;      78;    88;  4138;  4225; F3-Meal;
+     4;  16.09.2019; 23:34; 00:35;  0x84;   95.98;   9.94;   4.44;   4.07; 1568666048; 1568669700;      61;    35;  4234;  4268; F3-Meal;
+-----------------------------------------------------
+
+--- All saved meals -------------------------------
+     there's no per-meal data
+-----------------------------------------------------
+
+--- Total per-file (0: by summaries, 1: by meals) -
+Tracking Start;      Last saved;             Idx.; Rec. ID;     Tstamp;     E-IN;  CBH_in;  FAT_in;  PRO_in;    E-OUT; CBH_out; FAT_out;   Steps; Distance; E-LOSS for phy
+16.09.2019 00:00:17; 16.09.2019 23:59:30;       0;       0; 1568678370;  1153.79;   91.29;   62.26;   57.07;     0.00;    0.00;    0.00;       0;        0;           0.00
+16.09.2019 11:30:01; 17.09.2019 00:35:00;       1;       0; 1568680500;  1153.79;   91.29;   62.26;   57.07;     0.00;    0.00;    0.00;       0;        0;           0.00
+-----------------------------------------------------
+
+--- Summary change history --------------------------
+Tracking Start;      Last saved;             Idx.; Rec. ID;     Tstamp;     E-IN;  CBH_in;  FAT_in;  PRO_in;    E-OUT; CBH_out; FAT_out;   Steps; Distance; E-LOSS for phy
+16.09.2019 00:00:17; 16.09.2019 23:59:30;       0;       0; 1568678370;  1153.79;   91.29;   62.26;   57.07;     0.00;    0.00;    0.00;       0;        0;           0.00
+-----------------------------------------------------
