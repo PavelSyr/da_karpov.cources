@@ -1,0 +1,1 @@
+ALTER TABLE test.reviews_psyrnev_5102 ADD COLUMN reviewer_score UInt8 AFTER reviewer_name

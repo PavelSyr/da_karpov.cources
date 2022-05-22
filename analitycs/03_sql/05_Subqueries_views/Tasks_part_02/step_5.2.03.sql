@@ -1,0 +1,1 @@
+ALTER TABLE test.reviews_psyrnev_5102 MODIFY COLUMN date Date

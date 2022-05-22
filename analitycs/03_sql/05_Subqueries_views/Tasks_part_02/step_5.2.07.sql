@@ -1,0 +1,1 @@
+ALTER TABLE test.reviews_psyrnev_5102 ADD COLUMN price Float32 AFTER comments

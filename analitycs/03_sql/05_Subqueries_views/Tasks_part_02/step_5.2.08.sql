@@ -1,0 +1,1 @@
+ALTER TABLE test.reviews_psyrnev_5102 UPDATE price=price*2 WHERE date>'2019-01-01'
