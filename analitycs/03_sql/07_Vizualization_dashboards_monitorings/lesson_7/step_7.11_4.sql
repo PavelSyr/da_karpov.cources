@@ -21,7 +21,11 @@ SELECT
         WHEN revenue = 0 THEN 'zero'
         WHEN revenue <= 500 THEN 'S'
         WHEN revenue <= 10000 THEN 'M'
-        ELSE 'L'
+        WHEN revenue <= 30000 THEN 'ML'
+        WHEN revenue <= 60000 THEN 'L'
+        WHEN revenue <= 100000 THEN 'XL'
+        WHEN revenue <= 200000 THEN 'XXL'
+        ELSE 'XXXL'
     END AS Customer_group
 
 FROM invoice_by_customers
