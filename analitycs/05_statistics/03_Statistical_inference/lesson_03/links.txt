@@ -1,0 +1,2 @@
+https://gallery.shinyapps.io/dist_calc/
+https://davidmlane.com/hyperstat/z_table.html
