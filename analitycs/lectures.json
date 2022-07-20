@@ -228,18 +228,29 @@
         },
         "modulr_08":{
             "name":"visualization",
-            "lessons":[
-                "https://www.youtube.com/watch?v=vCUaHii3oIs",
-                "https://public.tableau.com/s/",
-                "https://www.youtube.com/watch?v=b0J1IrBprGc",
-                "https://www.youtube.com/watch?v=i6bEgq6Oe2A",
-                "https://www.youtube.com/watch?v=C_KeHD9Bk5c",
-                "https://www.youtube.com/watch?v=YVogo7P8iyM",
-                "https://www.youtube.com/watch?v=_fmARTVCKVw",
-                "https://www.youtube.com/watch?v=cnDHUaWCaj4",
-                "https://www.youtube.com/watch?v=-qmJAfkVpbs",
-                "https://www.youtube.com/watch?v=VV3N0RmDbdE%C2%A0%C2%A0"
-            ]
+            "lessons":{
+                "lesson_01":[
+                    "https://www.youtube.com/watch?v=vCUaHii3oIs",
+                    "https://public.tableau.com/s/",
+                    "https://www.youtube.com/watch?v=b0J1IrBprGc",
+                    "https://www.youtube.com/watch?v=i6bEgq6Oe2A",
+                    "https://www.youtube.com/watch?v=C_KeHD9Bk5c",
+                    "https://www.youtube.com/watch?v=YVogo7P8iyM",
+                    "https://www.youtube.com/watch?v=_fmARTVCKVw",
+                    "https://www.youtube.com/watch?v=cnDHUaWCaj4",
+                    "https://www.youtube.com/watch?v=-qmJAfkVpbs",
+                    "https://www.youtube.com/watch?v=VV3N0RmDbdE%C2%A0%C2%A0"
+                ],
+                "lesson_02":[
+                    "https://www.youtube.com/watch?v=KlbRItdMINE",
+                    "https://www.youtube.com/watch?v=rXoibRDlVzE",
+                    "https://www.youtube.com/watch?v=jEJRmmKpJYo",
+                    "https://www.youtube.com/watch?v=ZvPTWHDtw0w",
+                    "https://www.youtube.com/watch?v=7ow-lEgvG9g",
+                    "https://www.youtube.com/watch?v=DDLkAdKo4sc",
+                    "https://www.youtube.com/watch?v=urJ1kPxLMgE"
+                ]
+            }
         }
     }
 }
