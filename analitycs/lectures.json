@@ -257,6 +257,15 @@
                     "https://www.youtube.com/watch?v=syK4agnwf_8",
                     "https://www.youtube.com/watch?v=7rTi6vav8Qg"
                 ]
+            },
+            "modulr_09":{
+                "name":"Product development",
+                "lessons":{
+                    "lesson_01":[
+                        "https://www.youtube.com/watch?v=T0oJwVYLH2c",
+                        "https://www.youtube.com/watch?v=w6zuuU7-O_k"
+                    ]
+                }
             }
         }
     }
